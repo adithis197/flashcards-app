@@ -71,7 +71,7 @@ const FlashcardItem: React.FC<{ flashcard: Flashcard; deleteFlashcard: (id: numb
         </div>
       </div>
    }
-   <button className="delete-button" onClick={flipCard}>
+   <button className="flip-button" onClick={flipCard}>
       Flip
     </button>
    <button className="delete-button" onClick={confirmDelete}>

@@ -96,6 +96,16 @@
   cursor: pointer;
 }
 
+.flip-button {
+  background-color: #3f36ef;
+  color: #ffffff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
 .flashcard-flip {
   text-align: justify;
 }
